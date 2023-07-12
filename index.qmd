@@ -35,6 +35,8 @@ format:
 
 ## After acceptance
 
+- Pre-publication verification
+
 ## On publication
 
 ## End of grant period
@@ -43,11 +45,35 @@ format:
 
 ## Data repository
 
+:::: {.columns}
+
+::: {.column width="40%"}
+
+- Dataverse (linked to journal article)
+- Databrary.org
+- ICPSR
+- OSF.io
+
+:::
+
+::: {.column width="60%"}
+
+- PSU ScholarSphere
+- PSU Data Commons
+- NIH Data Archive
+- Zenodo.org
+
+:::
+
+::::
+
 ## Alternatives to repositories
 
 ## Data journal
 
----
+![](img/nature-sci-data-home-page.png)
+www.nature.com/sdata/
+
 
 # How to share data
 
@@ -59,7 +85,6 @@ format:
 - **R**esusable
 
 \cite{Wilkinson2016-qr}
-
 <!-- [Wilkinson et al., 2018](http://dx.doi.org/10.1038/sdata.2016.18) -->
 
 ## CARE principles
@@ -70,7 +95,6 @@ format:
 - **E**thical use
 
 \cite{Carroll2021-cr}
-
 <!-- [Carroll et al., 2021](http://dx.doi.org/10.1038/s41597-021-00892-0) -->
 
 # Resources
