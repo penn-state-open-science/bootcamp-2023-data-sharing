@@ -71,9 +71,21 @@ format:
 
 ## Data journal
 
+![](img/data-journals-list-zenodo.png) 
+
+zenodo.org/record/7082126
+
+---
+
 ![](img/nature-sci-data-home-page.png)
 www.nature.com/sdata/
 
+n.b.-- Gilmore is on editorial board.
+
+---
+
+- Could be extra pub
+- Especially good for early-career researchers
 
 # How to share data
 
