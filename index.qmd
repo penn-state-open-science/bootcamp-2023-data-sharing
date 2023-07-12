@@ -1,26 +1,88 @@
 ---
-title: "Data sharing: Why, when, where, & how"
-author: "Rick Gilmore & Bruce Desmarais"
-format: beamer
+title: "Data sharing"
+subtitle: "Why, when, where, & how"
+author: ["Rick Gilmore", "Bruce Desmarais"]
+institute: ["Psychology/CSC", "Political Science/SoDA"]
+thanks: "NSF & NIH"
+format: 
+  beamer:
+    bibliography: data-sharing.bib
 ---
 
-## Quarto
+# Preliminaries
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+## Agenda
 
-## Bullets
+# Why share data
 
-When you click the **Render** button a document will be generated that includes:
+## Transparency
 
--   Content authored with markdown
--   Output from executable code
+## Accelerate discovery
 
-## Code
+## Improved rigor
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+## Internal reproducibility
 
-```{r}
-1 + 1
-```
+## Requirement
 
+- Funder
+- Journal
+- Institutional
 
+# When to share data
+
+## On submission
+
+## After acceptance
+
+## On publication
+
+## End of grant period
+
+# Where to share data
+
+## Data repository
+
+## Alternatives to repositories
+
+## Data journal
+
+---
+
+# How to share data
+
+## FAIR principles
+
+- **F**indable
+- **A**ccessible
+- **I**nteroperable
+- **R**esusable
+
+\cite{Wilkinson2016-qr}
+
+<!-- [Wilkinson et al., 2018](http://dx.doi.org/10.1038/sdata.2016.18) -->
+
+## CARE principles
+
+- **C**ollective benefit
+- **A**uthority to control
+- **R**espect
+- **E**thical use
+
+\cite{Carroll2021-cr}
+
+<!-- [Carroll et al., 2021](http://dx.doi.org/10.1038/s41597-021-00892-0) -->
+
+# Resources
+
+## About
+
+This talk was produced using [Quarto](https://quarto.org).
+Rick Gilmore used the [RStudio](https://posit.co/products/open-source/rstudio/)
+Integrated Development Environment (IDE).
+Bruce Desmarais used XXX.
+
+The source files are in R and R Markdown, then rendered to PDF slides in the beamer format. 
+The PDF slides are hosted in a [GitHub repo](https://github.com/penn-state-open-science/bootcamp-2023-data-sharing).
+
+## References
