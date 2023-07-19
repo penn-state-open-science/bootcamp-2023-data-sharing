@@ -53,6 +53,11 @@ and benefits, and that such an analysis suggests that **researchers may have a p
 - When you've milked every last ounce of information out of a dataset, and all that remains is a lifeless, shriveled husk
 
 ## On submission
+- Some journals require that authors submit data for review. Ex, *Nature Scientific Data* 
+
+![](img/nsd_policy.png) 
+- Reviewers have the option to review the data along with the manuscript.
+- Bruce had experience of reviewer at NSD pointing out that numbers from the manuscript did not match data repository.
 
 ## After acceptance
 
