@@ -19,9 +19,15 @@ format:
 
 ## Accelerate discovery
 
-## Improved rigor
+## Improve rigor
+
+![](img/icarus-faster-than-light.png)
 
 ## Internal reproducibility
+
+![](https://upstarthr.com/wp-content/uploads/2011/06/hit-by-bus-300x214.jpg)
+- Could someone else on your team reproduce analyses done by X?
+- *Methods* reproducibility, \cite{Goodman2016-fi}
 
 ## Requirement
 
@@ -29,13 +35,28 @@ format:
 - Journal
 - Institutional
 
-# When to share data
+## Ethical duty
+
+>*Whereas regulators of human subjects research often view data sharing solely in terms of potential risks to subjects, we argue that the principles of human subject research require an analysis of both risks
+and benefits, and that such an analysis suggests that **researchers may have a positive duty to share data** in order to maximize the contribution that individual participants have made.*
+
+\cite{Brakewood2013-wj}
+
+# When to share
+
+## When NOT to share...
+
+![](https://i5.walmartimages.com/asr/9c07657f-ae80-451c-95eb-4d8747615107_1.d27d1c41d7227dc8e9e4ab11bd538daf.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF)
+
+---
+
+- When you've milked every last ounce of information out of a dataset, and all that remains is a lifeless, shriveled husk
 
 ## On submission
 
 ## After acceptance
 
-- Pre-publication verification
+- Pre-publication verification increasingly common
 
 ## On publication
 
@@ -47,16 +68,16 @@ format:
 
 :::: {.columns}
 
-::: {.column width="40%"}
+::: {.column width="50%"}
 
 - Dataverse (linked to journal article)
-- Databrary.org
+- Databrary.org (esp. video/audio, identifiable data)
 - ICPSR
 - OSF.io
 
 :::
 
-::: {.column width="60%"}
+::: {.column width="50%"}
 
 - PSU ScholarSphere
 - PSU Data Commons
@@ -68,6 +89,9 @@ format:
 ::::
 
 ## Alternatives to repositories
+
+- Supplemental materials
+- Lab/project website
 
 ## Data journal
 
@@ -113,6 +137,11 @@ n.b.-- Gilmore is on editorial board.
 \cite{Carroll2021-cr}
 <!-- [Carroll et al., 2021](http://dx.doi.org/10.1038/s41597-021-00892-0) -->
 
+## Seek permission to share
+
+- Sensitive & identifiable data can be shared with *restricted audiences* (i.e., researchers)
+- e.g., Databrary
+
 # Resources
 
 ## About
@@ -123,6 +152,8 @@ Integrated Development Environment (IDE).
 Bruce Desmarais used XXX.
 
 The source files are in R and R Markdown, then rendered to PDF slides in the beamer format. 
-The PDF slides are hosted in a [GitHub repo](https://github.com/penn-state-open-science/bootcamp-2023-data-sharing).
+The PDF slides are hosted in a GitHub repo:
+
+<https://github.com/penn-state-open-science/bootcamp-2023-data-sharing>
 
 ## References
