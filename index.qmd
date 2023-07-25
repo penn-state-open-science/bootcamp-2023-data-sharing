@@ -1,5 +1,5 @@
 ---
-title: "Data sharing"
+title: "Data & Materials Sharing"
 subtitle: "Why, when, where, & how"
 author: ["Rick Gilmore", "Bruce Desmarais"]
 institute: ["Psychology/CSC", "Political Science/SoDA"]
@@ -13,11 +13,23 @@ format:
 
 ## Agenda
 
+- Why share data & materials
+- When to share...
+- Where to share...
+- How to share...
+
 # Why share data
 
 ## Transparency
 
+![](img/stapel-nytimes.png){}
+[@Bhattacharjee2013-rw]
+
 ## Accelerate discovery
+
+![](img/pfizer-covid-vax.png)
+
+[@pfizer_2020-jq]
 
 ## Improve rigor
 
@@ -26,8 +38,12 @@ format:
 ## Internal reproducibility
 
 ![](https://upstarthr.com/wp-content/uploads/2011/06/hit-by-bus-300x214.jpg)
+
+---
+
+- What's your project's "bus number"?
 - Could someone else on your team reproduce analyses done by X?
-- *Methods* reproducibility, \cite{Goodman2016-fi}
+- *Methods* reproducibility [@Goodman2016-fi]
 
 ## Requirement
 
@@ -40,7 +56,7 @@ format:
 >*Whereas regulators of human subjects research often view data sharing solely in terms of potential risks to subjects, we argue that the principles of human subject research require an analysis of both risks
 and benefits, and that such an analysis suggests that **researchers may have a positive duty to share data** in order to maximize the contribution that individual participants have made.*
 
-\cite{Brakewood2013-wj}
+[@Brakewood2013-wj]
 
 # When to share
 
@@ -53,15 +69,20 @@ and benefits, and that such an analysis suggests that **researchers may have a p
 - When you've milked every last ounce of information out of a dataset, and all that remains is a lifeless, shriveled husk
 
 ## On submission
+
 - Some journals require that authors submit data for review. Ex, *Nature Scientific Data* 
 
 ![](img/nsd_policy.png) 
+
+---
+
 - Reviewers have the option to review the data along with the manuscript.
+
 - Bruce had experience of reviewer at NSD pointing out that numbers from the manuscript did not match data repository.
 
 ## After acceptance
 
-- Pre-publication verification increasingly common
+- Pre-publication verification (separate from review) increasingly common
 
 ## On publication
 
@@ -92,6 +113,7 @@ and benefits, and that such an analysis suggests that **researchers may have a p
 :::
 
 ::::
+
 
 ## Alternatives to repositories
 
@@ -129,8 +151,19 @@ n.b.-- Gilmore is on editorial board.
 - **I**nteroperable
 - **R**esusable
 
-\cite{Wilkinson2016-qr}
-<!-- [Wilkinson et al., 2018](http://dx.doi.org/10.1038/sdata.2016.18) -->
+[@Wilkinson2016-qr]
+
+## FAIR in-practice
+
+- **F**indable
+    - Repository or journal with persistent identifier
+- **Accessible**
+    - Not behind paywall
+- **I**nteroperable
+    - \{.txt, .csv\} vs. \{.docx, .xlsx\}
+- **R**eusable
+    - Data definitions/dictionary
+    - + Code
 
 ## CARE principles
 
@@ -139,13 +172,13 @@ n.b.-- Gilmore is on editorial board.
 - **R**espect
 - **E**thical use
 
-\cite{Carroll2021-cr}
-<!-- [Carroll et al., 2021](http://dx.doi.org/10.1038/s41597-021-00892-0) -->
+[@Carroll2021-cr]
 
 ## Seek permission to share
 
 - Sensitive & identifiable data can be shared with *restricted audiences* (i.e., researchers)
-- e.g., Databrary
+    - e.g., Databrary
+- Qualitative Data Repository (QDR; qdr.syracuse.edu)
 
 # Resources
 
