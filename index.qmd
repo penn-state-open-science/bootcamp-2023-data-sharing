@@ -74,8 +74,6 @@ and benefits, and that such an analysis suggests that **researchers may have a p
 
 ![](img/nsd_policy.png) 
 
----
-
 - Reviewers have the option to review the data along with the manuscript.
 
 - Bruce had experience of reviewer at NSD pointing out that numbers from the manuscript did not match data repository.
@@ -83,10 +81,24 @@ and benefits, and that such an analysis suggests that **researchers may have a p
 ## After acceptance
 
 - Pre-publication verification (separate from review) increasingly common
+![](img/jop_policy.png) 
+- Can take up to six months of back-and-forth with journal assistant.
+
+- Leads to more careful organization pre-submission.
 
 ## On publication
 
+- Post and disseminate data and code with paper.
+- Creates independent way to get cites.
+![](img/data_cite.png) 
+
 ## End of grant period
+
+- Major funders require data/material/publication sharing
+
+![](img/nsf_data.png) 
+
+
 
 # Where to share data
 
