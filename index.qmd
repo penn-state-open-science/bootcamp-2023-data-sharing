@@ -22,22 +22,20 @@ format:
 
 ## Transparency
 
-![](img/stapel-nytimes.png){}
-[@Bhattacharjee2013-rw]
+![[@Bhattacharjee2013-rw]](img/stapel-nytimes.png){fig-align="center"}
 
 ## Accelerate discovery
 
-![](img/pfizer-covid-vax.png)
+![[@pfizer_2020-jq]](img/pfizer-covid-vax.png){fig-align="center"}
 
-[@pfizer_2020-jq]
 
 ## Improve rigor
 
-![](img/icarus-faster-than-light.png)
+![[@Cho2012-uj]](img/icarus-faster-than-light.png){fig-align="center"}
 
 ## Internal reproducibility
 
-![](https://upstarthr.com/wp-content/uploads/2011/06/hit-by-bus-300x214.jpg)
+![](https://upstarthr.com/wp-content/uploads/2011/06/hit-by-bus-300x214.jpg){fig-align="center"}
 
 ---
 
@@ -54,9 +52,7 @@ format:
 ## Ethical duty
 
 >*Whereas regulators of human subjects research often view data sharing solely in terms of potential risks to subjects, we argue that the principles of human subject research require an analysis of both risks
-and benefits, and that such an analysis suggests that **researchers may have a positive duty to share data** in order to maximize the contribution that individual participants have made.*
-
-[@Brakewood2013-wj]
+and benefits, and that such an analysis suggests that **researchers may have a positive duty to share data** in order to maximize the contribution that individual participants have made.* [@Brakewood2013-wj]
 
 # When to share
 
@@ -90,6 +86,7 @@ and benefits, and that such an analysis suggests that **researchers may have a p
 
 - Post and disseminate data and code with paper.
 - Creates independent way to get cites.
+
 ![](img/data_cite.png) 
 
 ## End of grant period
@@ -97,7 +94,6 @@ and benefits, and that such an analysis suggests that **researchers may have a p
 - Major funders require data/material/publication sharing
 
 ![](img/nsf_data.png) 
-
 
 
 # Where to share data
@@ -134,13 +130,11 @@ and benefits, and that such an analysis suggests that **researchers may have a p
 
 ## Data journal
 
-![](img/data-journals-list-zenodo.png) 
-
-zenodo.org/record/7082126
+![[@Kindling2022-dv]](img/data-journals-list-zenodo.png){fig-align="center"}
 
 ---
 
-![](img/nature-sci-data-home-page.png)
+![](img/nature-sci-data-home-page.png){fig-align="center"}
 www.nature.com/sdata/
 
 n.b.-- Gilmore is on editorial board.
@@ -154,14 +148,11 @@ n.b.-- Gilmore is on editorial board.
 
 ---
 
-![](https://imgs.xkcd.com/comics/norm_normal_file_format.png)
+![](https://imgs.xkcd.com/comics/norm_normal_file_format.png){fig-align="center"}
 
 ## FAIR principles
 
-- **F**indable
-- **A**ccessible
-- **I**nteroperable
-- **R**esusable
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FAIR_data_principles.jpg/1600px-FAIR_data_principles.jpg?20161122143747){fig-align="center"}
 
 [@Wilkinson2016-qr]
 
@@ -179,27 +170,25 @@ n.b.-- Gilmore is on editorial board.
 
 ## CARE principles
 
-- **C**ollective benefit
-- **A**uthority to control
-- **R**espect
-- **E**thical use
-
-[@Carroll2021-cr]
+![[@Carroll2021-cr]](img/fair-care.png){fig-align="center"}
 
 ## Seek permission to share
 
-- Sensitive & identifiable data can be shared with *restricted audiences* (i.e., researchers)
-    - e.g., Databrary
+- Sensitive & identifiable data can (often) be shared with *restricted audiences* (i.e., researchers)
+    - e.g., Databrary (databrary.org)
 - Qualitative Data Repository (QDR; qdr.syracuse.edu)
+
+## Final thoughts
+
+- Sharing ≠ public
+- Plan for sharing as early as possible
+- Data + code $\rightarrow$ reproducible analyses
 
 # Resources
 
 ## About
 
 This talk was produced using [Quarto](https://quarto.org).
-Rick Gilmore used the [RStudio](https://posit.co/products/open-source/rstudio/)
-Integrated Development Environment (IDE).
-Bruce Desmarais used XXX.
 
 The source files are in R and R Markdown, then rendered to PDF slides in the beamer format. 
 The PDF slides are hosted in a GitHub repo:
