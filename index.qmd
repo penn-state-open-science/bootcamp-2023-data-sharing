@@ -22,18 +22,21 @@ format:
 
 ## Transparency
 
-![[@Bhattacharjee2013-rw]](img/stapel-nytimes.png){fig-align="center"}
+![[@Bhattacharjee2013-rw]](img/stapel-nytimes.png){fig-align="center" height=300}
+
+---
+
+![[@Marcus_undated-ns]](img/stapel-retraction-watch.png){fig-align="center"}
 
 ## Accelerate discovery
 
 ![[@pfizer_2020-jq]](img/pfizer-covid-vax.png){fig-align="center"}
 
-
 ## Improve rigor
 
 ![[@Cho2012-uj]](img/icarus-faster-than-light.png){fig-align="center"}
 
-## Internal reproducibility
+## Strengthen reproducibility
 
 ![](https://upstarthr.com/wp-content/uploads/2011/06/hit-by-bus-300x214.jpg){fig-align="center"}
 
@@ -43,11 +46,16 @@ format:
 - Could someone else on your team reproduce analyses done by X?
 - *Methods* reproducibility [@Goodman2016-fi]
 
-## Requirement
+## Meet a requirement
 
 - Funder
 - Journal
 - Institutional
+- Professional organization
+
+---
+
+![[@American_Psychological_Association_undated-zn]](img/apa-code-of-ethics-data-sharing.png){fig-align="center"}
 
 ## Ethical duty
 
@@ -58,7 +66,7 @@ and benefits, and that such an analysis suggests that **researchers may have a p
 
 ## When NOT to share...
 
-![](https://i5.walmartimages.com/asr/9c07657f-ae80-451c-95eb-4d8747615107_1.d27d1c41d7227dc8e9e4ab11bd538daf.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF)
+![](https://i5.walmartimages.com/asr/9c07657f-ae80-451c-95eb-4d8747615107_1.d27d1c41d7227dc8e9e4ab11bd538daf.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF){height=300 fig-align="center"}
 
 ---
 
@@ -152,7 +160,7 @@ n.b.-- Gilmore is on editorial board.
 
 ## FAIR principles
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FAIR_data_principles.jpg/1600px-FAIR_data_principles.jpg?20161122143747){fig-align="center"}
+![](img/FAIR_data_principles.jpg){fig-align="center"}
 
 [@Wilkinson2016-qr]
 
@@ -166,7 +174,7 @@ n.b.-- Gilmore is on editorial board.
     - \{.txt, .csv\} vs. \{.docx, .xlsx\}
 - **R**eusable
     - Data definitions/dictionary
-    - + Code
+    - Code to visualize/analyze
 
 ## CARE principles
 
@@ -180,9 +188,12 @@ n.b.-- Gilmore is on editorial board.
 
 ## Final thoughts
 
-- Sharing ≠ public
+- Sharing $\neq$ public
 - Plan for sharing as early as possible
 - Data + code $\rightarrow$ reproducible analyses
+- Internally reproducible $\rightarrow$ easier to share
+
+# Your thoughts?
 
 # Resources
 
