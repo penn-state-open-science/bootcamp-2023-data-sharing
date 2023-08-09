@@ -76,7 +76,7 @@ and benefits, and that such an analysis suggests that **researchers may have a p
 
 - Some journals require that authors submit data for review. Ex, *Nature Scientific Data* 
 
-![](img/nsd_policy.png) 
+![](img/nsd_policy.png){fig-align="center"}
 
 - Reviewers have the option to review the data along with the manuscript.
 
@@ -114,8 +114,8 @@ and benefits, and that such an analysis suggests that **researchers may have a p
 
 - Dataverse (linked to journal article)
 - Databrary.org (esp. video/audio, identifiable data)
-- ICPSR
-- OSF.io
+- Inter-University Consortium for Political and Social Research (ICPSR)
+- Open Science Framework (OSF)
 
 :::
 
@@ -130,6 +130,13 @@ and benefits, and that such an analysis suggests that **researchers may have a p
 
 ::::
 
+## Why repositories?
+
+- Long-term storage (preservation, in FAIR forms)
+- Data "communities"
+- Access
+- Specialized expertise (e.g., curation)
+- Persistent identifiers (e.g., DOIs) enable citation & tracking
 
 ## Alternatives to repositories
 
@@ -185,10 +192,10 @@ n.b.-- Gilmore is on editorial board.
 - Sensitive & identifiable data can (often) be shared with *restricted audiences* (i.e., researchers)
     - e.g., Databrary (databrary.org)
 - Qualitative Data Repository (QDR; qdr.syracuse.edu)
+- Sharing $\neq$ public access
 
 ## Final thoughts
 
-- Sharing $\neq$ public
 - Plan for sharing as early as possible
 - Data + code $\rightarrow$ reproducible analyses
 - Internally reproducible $\rightarrow$ easier to share
