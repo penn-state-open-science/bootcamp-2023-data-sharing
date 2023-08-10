@@ -2,7 +2,7 @@
 title: "Data & Materials Sharing"
 subtitle: "Why, when, where, & how"
 author: ["Rick Gilmore", "Bruce Desmarais"]
-institute: ["Psychology/CSC", "Political Science/SoDA"]
+institute: ["Psychology/CSC", "Political Science/C-SoDA"]
 thanks: "NSF & NIH"
 format: 
   beamer:
