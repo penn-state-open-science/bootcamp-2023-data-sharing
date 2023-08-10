@@ -57,6 +57,10 @@ format:
 
 ![[@American_Psychological_Association_undated-zn]](img/apa-code-of-ethics-data-sharing.png){fig-align="center"}
 
+---
+
+![https://www.srcd.org/policy-scientific-integrity-transparency-and-openness](img/srcd-policy-openness.png){fig-align="center"}
+
 ## Ethical duty
 
 >*Whereas regulators of human subjects research often view data sharing solely in terms of potential risks to subjects, we argue that the principles of human subject research require an analysis of both risks
@@ -110,21 +114,33 @@ and benefits, and that such an analysis suggests that **researchers may have a p
 
 :::: {.columns}
 
-::: {.column width="50%"}
+::: {.column width="33%"}
+
+**General**
 
 - Dataverse (linked to journal article)
-- Databrary.org (esp. video/audio, identifiable data)
 - Inter-University Consortium for Political and Social Research (ICPSR)
 - Open Science Framework (OSF)
+- Zenodo.org
 
 :::
 
-::: {.column width="50%"}
+::: {.column width="33%"}
+
+**Institutional**
 
 - PSU ScholarSphere
 - PSU Data Commons
+
+:::
+
+::: {.column width="33%"}
+
+**Domain**
+
 - NIH Data Archive
-- Zenodo.org
+- Databrary.org
+- OpenNeuro.org
 
 :::
 
@@ -158,6 +174,12 @@ n.b.-- Gilmore is on editorial board.
 
 - Could be extra pub
 - Especially good for early-career researchers
+
+## How to decide
+
+- Curate yourself vs. someone else curates
+- Cost of depositing
+- Visibility to others
 
 # How to share data
 
@@ -196,7 +218,7 @@ n.b.-- Gilmore is on editorial board.
 
 ## Final thoughts
 
-- Plan for sharing as early as possible
+- Plan for sharing as early as possible (see Data Management: Policies workshop)
 - Data + code $\rightarrow$ reproducible analyses
 - Internally reproducible $\rightarrow$ easier to share
 
